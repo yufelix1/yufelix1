@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2024 - To: 01 August 2024
+From: 26 July 2024 - To: 02 August 2024
 
-Total Time: 10 hrs 49 mins
+Total Time: 19 hrs 31 mins
 
-Java                   9 hrs 51 mins   ██████████████████████▓░░   91.01 %
-YAML                   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-XML                    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Markdown               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Text                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Java                   17 hrs 43 mins  ██████████████████████▓░░   90.74 %
+YAML                   1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+XML                    26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Markdown               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Bash                   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
