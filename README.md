@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2024 - To: 13 August 2024
+From: 07 August 2024 - To: 14 August 2024
 
-Total Time: 27 hrs 56 mins
+Total Time: 26 hrs 7 mins
 
-Java             26 hrs 17 mins  ███████████████████████▓░   94.10 %
-YAML             1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-XML              28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Java             25 hrs          ████████████████████████░   95.71 %
+YAML             42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+XML              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
