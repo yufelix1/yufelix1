@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2024 - To: 10 December 2024
+From: 04 December 2024 - To: 11 December 2024
 
-Total Time: 6 hrs 24 mins
+Total Time: 9 hrs 31 mins
 
-Java              3 hrs 48 mins   ███████████████░░░░░░░░░░   59.42 %
-YAML              1 hr 24 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
-XML               56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-Bash              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Shell Script      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Java              5 hrs 8 mins    █████████████▒░░░░░░░░░░░   53.91 %
+YAML              2 hrs 2 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
+XML               2 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
+Bash              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Shell Script      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
