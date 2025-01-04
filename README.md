@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2024 - To: 02 January 2025
+From: 27 December 2024 - To: 03 January 2025
 
-Total Time: 1 hr 15 mins
+Total Time: 1 hr 2 mins
 
-XML        54 mins         █████████████████▓░░░░░░░   71.30 %
-YAML       19 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
-Java       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Log        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+XML    38 mins         ███████████████▒░░░░░░░░░   61.31 %
+YAML   22 mins         █████████░░░░░░░░░░░░░░░░   36.16 %
+Java   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Log    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
