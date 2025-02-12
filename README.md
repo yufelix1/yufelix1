@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2025 - To: 10 February 2025
+From: 04 February 2025 - To: 11 February 2025
 
-Total Time: 12 hrs 6 mins
+Total Time: 12 hrs 7 mins
 
-Java             9 hrs 23 mins   ███████████████████▒░░░░░   77.58 %
+Java             9 hrs 24 mins   ███████████████████▒░░░░░   77.58 %
 YAML             1 hr 59 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
 Text             32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
 Log              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
