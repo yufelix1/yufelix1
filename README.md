@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2025 - To: 12 February 2025
+From: 06 February 2025 - To: 13 February 2025
 
-Total Time: 12 hrs 41 mins
+Total Time: 7 hrs 23 mins
 
-Java             9 hrs 24 mins   ██████████████████▓░░░░░░   74.10 %
-YAML             2 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
-Text             32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Log              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Docker           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Java       5 hrs 13 mins   █████████████████▓░░░░░░░   70.62 %
+YAML       1 hr 40 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
+Text       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Docker     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Log        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
