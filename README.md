@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2025 - To: 20 February 2025
+From: 14 February 2025 - To: 21 February 2025
 
-Total Time: 1 hr 26 mins
+Total Time: 1 hr 1 min
 
-YAML     1 hr 3 mins     ██████████████████▒░░░░░░   73.20 %
-Java     23 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+YAML     39 mins         ████████████████▒░░░░░░░░   64.77 %
+Java     21 mins         ████████▓░░░░░░░░░░░░░░░░   35.22 %
 XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
