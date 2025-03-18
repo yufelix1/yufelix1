@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2025 - To: 16 March 2025
+From: 10 March 2025 - To: 17 March 2025
 
-Total Time: 15 hrs 34 mins
+Total Time: 16 hrs 15 mins
 
-Java             14 hrs          ██████████████████████▒░░   89.91 %
-YAML             1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-XML              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Java             14 hrs 53 mins  ███████████████████████░░   91.60 %
+YAML             1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+XML              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 CSV/TSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
