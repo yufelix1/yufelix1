@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2025 - To: 30 April 2025
+From: 25 April 2025 - To: 02 May 2025
 
-Total Time: 7 hrs 42 mins
+Total Time: 4 hrs 45 mins
 
-Java           7 hrs 26 mins   ████████████████████████░   96.39 %
-YAML           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-PlantUML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java           4 hrs 42 mins   ████████████████████████▓   99.05 %
+PlantUML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Python         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
