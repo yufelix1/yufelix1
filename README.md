@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2025 - To: 28 August 2025
+From: 23 August 2025 - To: 30 August 2025
 
-Total Time: 29 hrs 41 mins
+Total Time: 31 hrs 6 mins
 
-Java             24 hrs 24 mins  ████████████████████▓░░░░   82.22 %
-JSON             2 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-YAML             1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-XML              49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-GitIgnore file   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Java             25 hrs 3 mins   ████████████████████░░░░░   80.55 %
+JSON             2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+YAML             2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+XML              1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+GitIgnore file   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
