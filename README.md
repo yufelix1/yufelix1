@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2025 - To: 07 September 2025
+From: 01 September 2025 - To: 08 September 2025
 
-Total Time: 12 hrs 12 mins
+Total Time: 10 hrs 28 mins
 
-Java             8 hrs 26 mins   █████████████████▒░░░░░░░   69.08 %
-YAML             2 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
-XML              1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-Log              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java             5 hrs 59 mins   ██████████████▒░░░░░░░░░░   57.24 %
+YAML             2 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
+XML              1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+Svelte           1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
