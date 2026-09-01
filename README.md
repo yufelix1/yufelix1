@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2026 - To: 31 August 2026
+From: 25 August 2026 - To: 01 September 2026
 
-Total Time: 3 hrs 46 mins
+Total Time: 1 hr 52 mins
 
-Python       2 hrs 2 mins          █████████████▒░░░░░░░░░░░   53.97 %
-Other        1 hr 15 mins          ████████▒░░░░░░░░░░░░░░░░   33.46 %
-CSS          10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-JavaScript   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-TOML         5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Other        52 mins               ███████████▓░░░░░░░░░░░░░   46.62 %
+Python       43 mins               █████████▓░░░░░░░░░░░░░░░   38.21 %
+TOML         5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+HTML         4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+JavaScript   4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 ```
 
 <!--END_SECTION:waka-->
